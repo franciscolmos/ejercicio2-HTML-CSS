@@ -1,0 +1,90 @@
+#nav{
+    text-align: end;
+    vertical-align: middle;
+    margin-top: 40px;
+    padding-top: 20px;
+    background-color: rgba(255, 255, 255, 0.4);
+    height: 40px;
+}
+
+a {
+    font-weight: 600;
+    text-decoration: none;
+    font-family: Open Sans;
+    font-size: 16px;
+    color: rgb(100,100,100);
+}
+
+#logos{
+    text-align: right;
+    margin-top: 10px;
+}
+img{
+    width: 18px;
+}
+
+body{
+    background-image: url('../img/emilia-music-top.jpg');
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: 100% 6%;
+}
+#titulo{
+    margin-left: 10px;
+    font-family: Raleway;
+    font-weight: 700;
+    font-size: 70px;
+    margin-top: 60px;
+    position: relative;
+    color: rgb(22,22,22);
+}
+
+#subtitulo{
+    margin-left: 10px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    font-family: Raleway;
+    font-size: 25px;
+    font-weight: bold;
+    color: rgb(22,22,22);
+}
+
+#directLink{
+    margin-left: 10px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    font-family: Open Sans;
+    font-size: 15px;
+}
+
+#linksInternos{
+    margin-left: 60px;
+    margin-bottom: 70px;
+    font-family: Open Sans;
+    color: rgb(66, 66, 66);
+    font-size: 15px;
+}
+
+#playList{
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    line-height: 40px;
+    font-family: Open Sans;
+}
+
+#goTop{
+    margin-left: 10px;
+    margin-top: 20px;
+    margin-bottom: 80px;
+    font-family: Open Sans;
+    font-weight: bold;
+    color: grey
+}
+
+#info{
+    margin-top: 20px;
+    margin-left: 10px;
+    font-family: Open Sans;
+    line-height: 30px;
+}
