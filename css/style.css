@@ -4,14 +4,23 @@
 }
 
 #nombre{
+    font-size: 30px;
     padding-top: 200px;
     padding-left: 60px ;
     color: #666;
 }
 
 #titulo{
-    font-size: ;
-    padding-top: 300px;
-    padding-left: 60px ;
-    background-color: rgba(f,f,f,0.1);
+    font-size: 80px;
+    margin-top: 245px;
+    background-color: rgba(0,0,0,0.2);
+    position: relative;
 }
+
+body{
+    background-image: url('../img/emilia-home.jpg');
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: 1300px;
+}
+
