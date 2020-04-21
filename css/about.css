@@ -1,0 +1,68 @@
+#nav{
+    text-align: end;
+    vertical-align: middle;
+    margin-top: 40px;
+    padding-top: 20px;
+    background-color: rgba(255, 255, 255, 0.4);
+    height: 40px;
+}
+
+a{
+    font-weight: 600;
+    text-decoration: none;
+    font-family: Open Sans;
+    font-size: 16px;
+    color: rgb(100,100,100);
+}
+
+body{
+    background-image: url('../img/emilia-about.jpg');
+    background-position-x: right;
+    background-position-y: 0vmax;
+    background-repeat: no-repeat;
+    background-blend-mode: saturation;
+    background-size: 75% 110%;
+}
+
+#logos{
+    text-align: right;
+    margin-top: 10px;
+}
+img{
+    width: 18px;
+}
+
+#titulo{
+    font-family: Raleway;
+    font-weight: 700;
+    font-size: 75px;
+    margin-top: 150px;
+    position: relative;
+    color: rgb(22,22,22);
+}
+
+#seattle{
+    margin-left: 50px;
+    margin-top: 60px;
+    font-family: Raleway;
+    font-size: 30px;
+    color: seagreen;
+
+}
+
+#johnTirckle
+{
+    margin-left: 50px;
+    margin-top: 30px;
+    font-family: Raleway;
+    font-size: 15px;
+    color: seagreen;
+}
+
+#emiliaCole{
+    margin-left: 50px;
+    margin-top: 80px;
+    font-family: Raleway;
+    font-size: 30px;
+    color: seagreen;
+}

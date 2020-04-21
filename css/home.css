@@ -1,9 +1,5 @@
-#primerDiv{
-    font-family: Open Sans;
-    font-size: 14px;
-    line-height: 40px;
+#logos{
     padding-left: 60px ;
-    color: rgb(100,100,100);
 }
 
 #nombre{
@@ -30,6 +26,15 @@ body{
     background-image: url('../img/emilia-home.jpg');
     background-position: right;
     background-repeat: no-repeat;
-    background-size: 1300px;
+    background-size: 1315px;
+}
+
+#link{
+    text-decoration: none;
+    font-family: Open Sans;
+    font-size: 14px;
+    line-height: 40px;
+    padding-left: 60px ;
+    color: rgb(100,100,100);
 }
 
