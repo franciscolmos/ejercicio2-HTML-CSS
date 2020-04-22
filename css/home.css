@@ -1,14 +1,22 @@
+
+body{
+    background-image: url('../img/emilia-home.jpg');
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: 1315px;
+}
+
 #logos{
     padding-left: 60px ;
 }
 
 #nombre{
+    padding-top: 200px;
+    padding-left: 60px ;
     font-family: Work Sans;
     font-weight: 700;
     font-size: 30px;
     letter-spacing: 5px;
-    padding-top: 200px;
-    padding-left: 60px ;
     color:rgb(71,71,71);
 }
 
@@ -22,13 +30,6 @@
     color: rgb(22,22,22);
 }
 
-body{
-    background-image: url('../img/emilia-home.jpg');
-    background-position: right;
-    background-repeat: no-repeat;
-    background-size: 1315px;
-}
-
 #link{
     text-decoration: none;
     font-family: Open Sans;
@@ -36,5 +37,9 @@ body{
     line-height: 40px;
     padding-left: 60px ;
     color: rgb(100,100,100);
+}
+
+img{
+    width: 18px;
 }
 
